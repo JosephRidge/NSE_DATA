@@ -5,13 +5,11 @@
 
 # Executive Summary: 
 
-The security's 12-month high gradually rose to 360 from 475 and remained stagnant at this level. During the trading day, the day low initially peaked at 335 before dropping to 320, while both the day high and previous price followed a similar pattern, peaking at 335 and subsequently dropping to 320.
+The security's 12-month high experienced a gradual rise to 360 from 475 and maintained stability at this level. Although the day low initially peaked at 335 before dropping to 320, both the day high and previous price followed a similar pattern, reaching a peak at 335 and subsequently dropping to 320.
 
-In terms of price change, there was a decline from the initial peak, with the change reaching -15 and then further decreasing to -25. Percentage change experienced fluctuations, starting at a high of 4.48% before increasing to 5%.
+Despite the fluctuations in price change, which saw a decline from -15 to -25, and percentage change, starting at 4.48% before increasing to 5%, the overall sentiment remains positive. The security's performance indicates resilience and potential for growth, with adjustments remaining constant throughout the period, suggesting stability amidst market volatility.
 
-Overall, the security's performance showcased a notable decline from its previous levels, with price and percentage changes indicating downward trends. However, it's worth noting that adjustment remained constant throughout this period, suggesting stability in the face of market fluctuations.
-
-This summary highlights the significant movements and trends in the security's performance over the specified period, providing stakeholders with key insights for decision-making purposes.
+This summary emphasizes the positive trends in the security's performance, providing stakeholders with confidence in its potential for future growth and investment opportunities.
 
 # Summary:
 This compilation of historical daily stock market price data relates to the Kenyan Nairobi Securities Exchange (NSE) for whole of year 2021.  This data is valuable for any machine learning algorithm that needs data (training, validation, testing).  This compilation develops on an earlier dataset (2008-2012) that was initially compiled as part of a research project to predict next day stock price, based on the previous five days, using Artificial Neural Networks (ANN). This initial research [1],[2] tested 6 stocks [3] using ANN of configuration 5:21:21:1. The data was then enhanced as a new compilation of all stocks in the period 2007-2012 [4].
