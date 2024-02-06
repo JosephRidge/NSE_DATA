@@ -3,8 +3,7 @@
 - Industry: Agriculture
 - [Data Source]('https://data.mendeley.com/datasets/97hkwn5y3x/4')
 
-# Executive Summary:
-Executive Summary:
+# Executive Summary: 
 
 The security's 12-month high gradually rose to 360 from 475 and remained stagnant at this level. During the trading day, the day low initially peaked at 335 before dropping to 320, while both the day high and previous price followed a similar pattern, peaking at 335 and subsequently dropping to 320.
 
